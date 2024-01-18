@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-18T04:58:06.846Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="noQcXWME9jU-76dd-epw" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-18T05:01:25.581Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="XJavtd3417WMMpwADepl" version="22.1.21" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="1308" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
@@ -51,6 +51,18 @@
         </mxCell>
         <mxCell id="95igaDQyrnbgRM2Dg2hY-24" value="pub event data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="275" y="273" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="95igaDQyrnbgRM2Dg2hY-26" value="ZNostr" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="687" y="170" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="95igaDQyrnbgRM2Dg2hY-28" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="484" y="190" as="sourcePoint" />
+            <mxPoint x="684" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="95igaDQyrnbgRM2Dg2hY-29" value="Gossip" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="160" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
